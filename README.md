@@ -26,7 +26,7 @@ This is simply the experience of a 16-year-old boy preparing for his job or just
 - People frequently debate which IDE is the best for programming, but from what I've learned, you shouldn't give this issue too much thought. The IDE you feel most at ease with is the best one. However, in my opinion, I would suggest Vim and I have found a usefull Vim plugin for Codeforces [here](https://github.com/Igorjan94/codeforces.vim)
 
 **3. Resources:**
-- In this reposiory, I mostly used: 
+- In this repository, I mostly used: 
 
 - [VNOI](https://vnoi.info/wiki/Home) - a website for competitive programmin in vietnamese 
 - [Geeksforgeeks](https://www.geeksforgeeks.org/) - place for many guide to algorithms and data structures 
